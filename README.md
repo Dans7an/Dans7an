@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**Dans7an/Dans7an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dans7an/Dans7an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1 align="center">Hi 👋, I'm Danstan</h1>
-<h3 align="center">I am a Software Engineer based in Philadelphia, MA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I am also a freelance developer and I like feeding by curiosity by playing around with new technologies</h3>
+<h3 align="center">I am a Software Engineer based in Philadelphia, PA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I am also a freelance developer and I like feeding by curiosity by playing around with new technologies</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
